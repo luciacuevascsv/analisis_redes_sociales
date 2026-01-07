@@ -1,0 +1,930 @@
+Early stopping at epoch 325
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.1, negative_slope=0.01.
+6.07 min, RMSE: 0.7182752455748513
+Early stopping at epoch 508
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.1, negative_slope=0.05.
+2.64 min, RMSE: 0.7137964919178543
+Early stopping at epoch 299
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.1, negative_slope=0.1.
+1.54 min, RMSE: 0.7141811678201544
+Early stopping at epoch 301
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.1, negative_slope=0.2.
+1.57 min, RMSE: 0.7024674746880029
+Early stopping at epoch 305
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.25, negative_slope=0.01.
+1.57 min, RMSE: 0.6833042074752538 
+Early stopping at epoch 265
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.25, negative_slope=0.05.
+1.38 min, RMSE: 0.7186754756566557
+Early stopping at epoch 297
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.25, negative_slope=0.1.
+1.54 min, RMSE: 0.7259754543664929
+Early stopping at epoch 341
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.25, negative_slope=0.2.
+1.76 min, RMSE: 0.6919335066721862
+Early stopping at epoch 276
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.4, negative_slope=0.01.
+1.44 min, RMSE: 0.8078372188214814
+Early stopping at epoch 306
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.4, negative_slope=0.05.
+1.61 min, RMSE: 0.7982801890289081
+Early stopping at epoch 320
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.4, negative_slope=0.1.
+1.7 min, RMSE: 0.7212448669275733
+Early stopping at epoch 322
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.4, negative_slope=0.2.
+1.68 min, RMSE: 0.730532501360613
+Early stopping at epoch 314
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.5, negative_slope=0.01.
+1.65 min, RMSE: 0.8268522224306775
+Early stopping at epoch 317
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.5, negative_slope=0.05.
+1.66 min, RMSE: 0.7989111807121885
+Early stopping at epoch 524
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.5, negative_slope=0.1.
+2.72 min, RMSE: 0.8190351228486112
+Early stopping at epoch 346
+Modelo entrenado con hidden_channels=64, n_layers=2, dropout=0.5, negative_slope=0.2.
+1.83 min, RMSE: 0.8291593047699197
+Early stopping at epoch 289
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.1, negative_slope=0.01.
+1.7 min, RMSE: 0.6891273926418041 
+Early stopping at epoch 302
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.1, negative_slope=0.05.
+1.79 min, RMSE: 0.6982784685519408
+Early stopping at epoch 290
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.1, negative_slope=0.1.
+1.69 min, RMSE: 0.6715172901420324
+Early stopping at epoch 213
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.1, negative_slope=0.2.
+1.25 min, RMSE: 0.6729833926272701
+Early stopping at epoch 507
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.25, negative_slope=0.01.
+2.93 min, RMSE: 0.7016788822623854
+Early stopping at epoch 317
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.25, negative_slope=0.05.
+1.85 min, RMSE: 0.6803397724727547 
+Early stopping at epoch 291
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.25, negative_slope=0.1.
+1.7 min, RMSE: 0.6913981923876468
+Early stopping at epoch 288
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.25, negative_slope=0.2.
+1.7 min, RMSE: 0.6894604492330085 
+Early stopping at epoch 313
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.4, negative_slope=0.01.
+1.88 min, RMSE: 0.7154449589797319
+Early stopping at epoch 311
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.4, negative_slope=0.05.
+1.9 min, RMSE: 0.724448228437311
+Early stopping at epoch 308
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.4, negative_slope=0.1.
+1.84 min, RMSE: 0.7376062196427661
+Early stopping at epoch 334
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.4, negative_slope=0.2.
+1.95 min, RMSE: 0.7367387409257544
+Early stopping at epoch 322
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.5, negative_slope=0.01.
+1.89 min, RMSE: 0.8255599960058279
+Early stopping at epoch 318
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.5, negative_slope=0.05.
+1.84 min, RMSE: 0.8094153555504758
+Early stopping at epoch 352
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.5, negative_slope=0.1.
+2.06 min, RMSE: 0.7768904070199536
+Early stopping at epoch 313
+Modelo entrenado con hidden_channels=64, n_layers=3, dropout=0.5, negative_slope=0.2.
+1.83 min, RMSE: 0.7535293497160634
+Early stopping at epoch 462
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.1, negative_slope=0.01.
+2.68 min, RMSE: 0.701794475854615
+Early stopping at epoch 295
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.1, negative_slope=0.05.
+1.69 min, RMSE: 0.690261173406645
+Early stopping at epoch 472
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.1, negative_slope=0.1.
+2.69 min, RMSE: 0.7203432580756532
+Early stopping at epoch 346
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.1, negative_slope=0.2.
+1.98 min, RMSE: 0.6877470105031184
+Early stopping at epoch 610
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.25, negative_slope=0.01.
+3.45 min, RMSE: 0.6982355090623894
+Early stopping at epoch 330
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.25, negative_slope=0.05.
+1.87 min, RMSE: 0.7081372480036116
+Early stopping at epoch 247
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.25, negative_slope=0.1.
+1.41 min, RMSE: 0.7366422412635206
+Early stopping at epoch 300
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.25, negative_slope=0.2.
+1.7 min, RMSE: 0.7716002713791098
+Early stopping at epoch 300
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.4, negative_slope=0.01.
+1.7 min, RMSE: 0.7909533773584321
+Early stopping at epoch 347
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.4, negative_slope=0.05.
+1.96 min, RMSE: 0.7741288568046251
+Early stopping at epoch 274
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.4, negative_slope=0.1.
+1.55 min, RMSE: 0.7693181896282039
+Early stopping at epoch 285
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.4, negative_slope=0.2.
+1.61 min, RMSE: 0.7891967067536917
+Early stopping at epoch 273
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.5, negative_slope=0.01.
+1.55 min, RMSE: 0.8445167635950696
+Early stopping at epoch 278
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.5, negative_slope=0.05.
+1.59 min, RMSE: 0.8478601443416608
+Early stopping at epoch 324
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.5, negative_slope=0.1.
+1.87 min, RMSE: 0.81535613207376
+Early stopping at epoch 287
+Modelo entrenado con hidden_channels=64, n_layers=4, dropout=0.5, negative_slope=0.2.
+1.63 min, RMSE: 0.8522112817408742
+Early stopping at epoch 316
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.1, negative_slope=0.01.
+1.93 min, RMSE: 0.686121074335971
+Early stopping at epoch 267
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.1, negative_slope=0.05.
+1.65 min, RMSE: 0.6935232324851676
+Early stopping at epoch 315
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.1, negative_slope=0.1.
+1.96 min, RMSE: 0.6888339812268158
+Early stopping at epoch 318
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.1, negative_slope=0.2.
+1.97 min, RMSE: 0.6706349641026427 
+Early stopping at epoch 311
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.25, negative_slope=0.01.
+1.92 min, RMSE: 0.7127194810446607
+Early stopping at epoch 265
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.25, negative_slope=0.05.
+1.64 min, RMSE: 0.705899165202251
+Early stopping at epoch 311
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.25, negative_slope=0.1.
+1.97 min, RMSE: 0.7105376617452576
+Early stopping at epoch 308
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.25, negative_slope=0.2.
+1.93 min, RMSE: 0.7532402496829724
+Early stopping at epoch 306
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.4, negative_slope=0.01.
+1.88 min, RMSE: 0.8168092889003585
+Early stopping at epoch 268
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.4, negative_slope=0.05.
+1.65 min, RMSE: 0.7554552291445069
+Early stopping at epoch 221
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.4, negative_slope=0.1.
+1.36 min, RMSE: 0.9003674155287579
+Early stopping at epoch 302
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.4, negative_slope=0.2.
+1.87 min, RMSE: 0.7600758086487083
+Early stopping at epoch 254
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.5, negative_slope=0.01.
+1.56 min, RMSE: 0.9659149972595382
+Early stopping at epoch 234
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.5, negative_slope=0.05.
+1.45 min, RMSE: 0.931830824704142
+Early stopping at epoch 254
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.5, negative_slope=0.1.
+1.56 min, RMSE: 0.927292392733709
+Early stopping at epoch 285
+Modelo entrenado con hidden_channels=64, n_layers=5, dropout=0.5, negative_slope=0.2.
+1.75 min, RMSE: 0.857134428200518
+Early stopping at epoch 339
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.1, negative_slope=0.01.
+2.23 min, RMSE: 0.6805372238177808
+Early stopping at epoch 351
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.1, negative_slope=0.05.
+2.31 min, RMSE: 0.6851732731434657
+Early stopping at epoch 252
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.1, negative_slope=0.1.
+1.7 min, RMSE: 0.6999047643194737
+Early stopping at epoch 447
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.1, negative_slope=0.2.
+2.92 min, RMSE: 0.678019803978237 
+Early stopping at epoch 289
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.25, negative_slope=0.01.
+1.9 min, RMSE: 0.7369197178099255
+Early stopping at epoch 523
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.25, negative_slope=0.05.
+3.4 min, RMSE: 1.7443342113458116
+Early stopping at epoch 325
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.25, negative_slope=0.1.
+2.14 min, RMSE: 0.7116303287267325
+Early stopping at epoch 287
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.25, negative_slope=0.2.
+1.89 min, RMSE: 0.7180098976927405
+Early stopping at epoch 275
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.4, negative_slope=0.01.
+1.82 min, RMSE: 0.8214856623821084
+Early stopping at epoch 282
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.4, negative_slope=0.05.
+1.86 min, RMSE: 0.7880538316347989
+Early stopping at epoch 268
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.4, negative_slope=0.1.
+1.8 min, RMSE: 0.7939324214437903
+Early stopping at epoch 330
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.4, negative_slope=0.2.
+2.21 min, RMSE: 0.8140029234613896
+Early stopping at epoch 224
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.5, negative_slope=0.01.
+1.5 min, RMSE: 0.9010562519570839
+Early stopping at epoch 243
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.5, negative_slope=0.05.
+1.64 min, RMSE: 0.9044685084985987
+Early stopping at epoch 253
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.5, negative_slope=0.1.
+1.69 min, RMSE: 0.9039910117444125
+Early stopping at epoch 260
+Modelo entrenado con hidden_channels=64, n_layers=6, dropout=0.5, negative_slope=0.2.
+1.73 min, RMSE: 0.9398530011779371
+Early stopping at epoch 347
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.1, negative_slope=0.01.
+1.6 min, RMSE: 0.7089915669321605
+Early stopping at epoch 327
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.1, negative_slope=0.05.
+1.48 min, RMSE: 0.7004091665668287
+Early stopping at epoch 355
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.1, negative_slope=0.1.
+1.6 min, RMSE: 0.6743647186264897 
+Early stopping at epoch 323
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.1, negative_slope=0.2.
+1.45 min, RMSE: 0.678462882929007
+Early stopping at epoch 478
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.25, negative_slope=0.01.
+2.21 min, RMSE: 0.6982391042841506
+Early stopping at epoch 266
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.25, negative_slope=0.05.
+1.26 min, RMSE: 0.6845285017433249 
+Early stopping at epoch 288
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.25, negative_slope=0.1.
+1.37 min, RMSE: 0.6970586238603048
+Early stopping at epoch 317
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.25, negative_slope=0.2.
+1.46 min, RMSE: 0.6934340908150772
+Early stopping at epoch 298
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.4, negative_slope=0.01.
+1.34 min, RMSE: 0.7547477557003848
+Early stopping at epoch 328
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.4, negative_slope=0.05.
+1.47 min, RMSE: 0.7576848953284421
+Early stopping at epoch 293
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.4, negative_slope=0.1.
+1.32 min, RMSE: 0.7722058242602509
+Early stopping at epoch 292
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.4, negative_slope=0.2.
+1.31 min, RMSE: 0.7685868279210091
+Early stopping at epoch 293
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.5, negative_slope=0.01.
+1.32 min, RMSE: 0.8757442946546315
+Early stopping at epoch 314
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.5, negative_slope=0.05.
+1.41 min, RMSE: 0.816613410085949
+Early stopping at epoch 322
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.5, negative_slope=0.1.
+1.46 min, RMSE: 0.7670872021961114
+Early stopping at epoch 264
+Modelo entrenado con hidden_channels=128, n_layers=2, dropout=0.5, negative_slope=0.2.
+1.2 min, RMSE: 0.7987202332374566
+Early stopping at epoch 342
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.1, negative_slope=0.01.
+1.7 min, RMSE: 0.6920485268254148
+Early stopping at epoch 303
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.1, negative_slope=0.05.
+1.51 min, RMSE: 0.707606062763993
+Early stopping at epoch 345
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.1, negative_slope=0.1.
+1.72 min, RMSE: 0.7008507775101956
+Early stopping at epoch 445
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.1, negative_slope=0.2.
+2.2 min, RMSE: 0.7188221218834788
+Early stopping at epoch 228
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.25, negative_slope=0.01.
+1.14 min, RMSE: 0.7205520787129854
+Early stopping at epoch 289
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.25, negative_slope=0.05.
+1.44 min, RMSE: 0.6835150731567748 
+Early stopping at epoch 285
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.25, negative_slope=0.1.
+1.42 min, RMSE: 0.7190441778838927
+Early stopping at epoch 315
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.25, negative_slope=0.2.
+1.57 min, RMSE: 0.7038531514762899
+Early stopping at epoch 230
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.4, negative_slope=0.01.
+1.15 min, RMSE: 0.7922927181487008
+Early stopping at epoch 252
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.4, negative_slope=0.05.
+1.27 min, RMSE: 0.8009576904099794
+Early stopping at epoch 255
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.4, negative_slope=0.1.
+1.28 min, RMSE: 0.754706691262912
+Early stopping at epoch 256
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.4, negative_slope=0.2.
+1.3 min, RMSE: 0.775459268105548
+Early stopping at epoch 302
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.5, negative_slope=0.01.
+1.5 min, RMSE: 0.7791932354872773
+Early stopping at epoch 288
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.5, negative_slope=0.05.
+1.47 min, RMSE: 0.8400149882700917
+Early stopping at epoch 288
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.5, negative_slope=0.1.
+1.45 min, RMSE: 0.8011611872840909
+Early stopping at epoch 227
+Modelo entrenado con hidden_channels=128, n_layers=3, dropout=0.5, negative_slope=0.2.
+1.14 min, RMSE: 0.8916316880839007
+Early stopping at epoch 325
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.1, negative_slope=0.01.
+1.77 min, RMSE: 0.6880428880845444
+Early stopping at epoch 536
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.1, negative_slope=0.05.
+2.9 min, RMSE: 0.7172571740685268
+Early stopping at epoch 354
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.1, negative_slope=0.1.
+1.92 min, RMSE: 0.6779512425344895
+Early stopping at epoch 332
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.1, negative_slope=0.2.
+1.8 min, RMSE: 0.6923173144949271
+Early stopping at epoch 242
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.25, negative_slope=0.01.
+1.32 min, RMSE: 0.6894276883918184
+Early stopping at epoch 274
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.25, negative_slope=0.05.
+1.5 min, RMSE: 0.6877805835078139
+Early stopping at epoch 295
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.25, negative_slope=0.1.
+1.61 min, RMSE: 0.7251603747947726
+Early stopping at epoch 284
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.25, negative_slope=0.2.
+1.54 min, RMSE: 0.7148751860521971
+Early stopping at epoch 243
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.4, negative_slope=0.01.
+1.32 min, RMSE: 0.7941469221448797
+Early stopping at epoch 252
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.4, negative_slope=0.05.
+1.38 min, RMSE: 0.7657786713147643
+Early stopping at epoch 280
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.4, negative_slope=0.1.
+1.54 min, RMSE: 0.7751597478878763
+Early stopping at epoch 235
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.4, negative_slope=0.2.
+1.29 min, RMSE: 0.7658562623090666
+Early stopping at epoch 230
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.5, negative_slope=0.01.
+1.27 min, RMSE: 0.8294941780482351
+Early stopping at epoch 297
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.5, negative_slope=0.05.
+1.62 min, RMSE: 0.800040421510275
+Early stopping at epoch 251
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.5, negative_slope=0.1.
+1.37 min, RMSE: 0.8894900257376623
+Early stopping at epoch 244
+Modelo entrenado con hidden_channels=128, n_layers=4, dropout=0.5, negative_slope=0.2.
+1.33 min, RMSE: 0.8105676713043586
+Early stopping at epoch 302
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.1, negative_slope=0.01.
+1.78 min, RMSE: 0.6687761219033881 
+Early stopping at epoch 304
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.1, negative_slope=0.05.
+1.79 min, RMSE: 0.6884244127544918
+Early stopping at epoch 291
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.1, negative_slope=0.1.
+1.73 min, RMSE: 0.6582013899166106
+Early stopping at epoch 457
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.1, negative_slope=0.2.
+2.71 min, RMSE: 0.6880938271657816
+Early stopping at epoch 255
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.25, negative_slope=0.01.
+1.54 min, RMSE: 0.723720576185383
+Early stopping at epoch 285
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.25, negative_slope=0.05.
+1.7 min, RMSE: 0.7402510311410986
+Early stopping at epoch 309
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.25, negative_slope=0.1.
+1.85 min, RMSE: 0.7398328318304147
+Early stopping at epoch 298
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.25, negative_slope=0.2.
+1.77 min, RMSE: 0.723870015427571
+Early stopping at epoch 295
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.4, negative_slope=0.01.
+1.76 min, RMSE: 0.7736419994163072
+Early stopping at epoch 204
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.4, negative_slope=0.05.
+1.23 min, RMSE: 0.8497615206090461
+Early stopping at epoch 226
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.4, negative_slope=0.1.
+1.36 min, RMSE: 0.8738564056520394
+Early stopping at epoch 227
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.4, negative_slope=0.2.
+1.36 min, RMSE: 0.8561330899603521
+Early stopping at epoch 195
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.5, negative_slope=0.01.
+1.17 min, RMSE: 0.921116223987243
+Early stopping at epoch 226
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.5, negative_slope=0.05.
+1.36 min, RMSE: 0.9397579138030082
+Early stopping at epoch 178
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.5, negative_slope=0.1.
+1.09 min, RMSE: 1.0145447050269267
+Early stopping at epoch 226
+Modelo entrenado con hidden_channels=128, n_layers=5, dropout=0.5, negative_slope=0.2.
+1.34 min, RMSE: 0.9370680372011692
+Early stopping at epoch 310
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.1, negative_slope=0.01.
+1.99 min, RMSE: 0.6811977222893747
+Early stopping at epoch 280
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.1, negative_slope=0.05.
+1.81 min, RMSE: 0.6913266703019441
+Early stopping at epoch 349
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.1, negative_slope=0.1.
+2.23 min, RMSE: 0.6942841711733623
+Early stopping at epoch 322
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.1, negative_slope=0.2.
+2.07 min, RMSE: 0.6807682868991433
+Early stopping at epoch 287
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.25, negative_slope=0.01.
+1.85 min, RMSE: 0.7222329717507696
+Early stopping at epoch 246
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.25, negative_slope=0.05.
+1.6 min, RMSE: 0.7048666941360626
+Early stopping at epoch 293
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.25, negative_slope=0.1.
+1.9 min, RMSE: 0.7282706853621025
+Early stopping at epoch 310
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.25, negative_slope=0.2.
+2.0 min, RMSE: 0.7541827132551088
+Early stopping at epoch 215
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.4, negative_slope=0.01.
+1.41 min, RMSE: 0.8490234633373038
+Early stopping at epoch 265
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.4, negative_slope=0.05.
+1.73 min, RMSE: 0.8394616009408189
+Early stopping at epoch 181
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.4, negative_slope=0.1.
+1.19 min, RMSE: 0.864822456657333
+Early stopping at epoch 252
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.4, negative_slope=0.2.
+1.64 min, RMSE: 0.8916747684220168
+Early stopping at epoch 211
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.5, negative_slope=0.01.
+1.42 min, RMSE: 0.9681484483399385
+Early stopping at epoch 208
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.5, negative_slope=0.05.
+1.38 min, RMSE: 0.9522102977128762
+Early stopping at epoch 204
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.5, negative_slope=0.1.
+1.35 min, RMSE: 0.9298952640870212
+Early stopping at epoch 218
+Modelo entrenado con hidden_channels=128, n_layers=6, dropout=0.5, negative_slope=0.2.
+1.44 min, RMSE: 1.0149643564080457
+Early stopping at epoch 277
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.1, negative_slope=0.01.
+1.35 min, RMSE: 0.6703308619576286
+Early stopping at epoch 321
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.1, negative_slope=0.05.
+1.53 min, RMSE: 0.6876112448860965
+Early stopping at epoch 446
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.1, negative_slope=0.1.
+2.12 min, RMSE: 0.6808450442325436
+Early stopping at epoch 257
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.1, negative_slope=0.2.
+1.26 min, RMSE: 0.701841810757675
+Early stopping at epoch 334
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.25, negative_slope=0.01.
+1.67 min, RMSE: 0.6843704126210325
+Early stopping at epoch 337
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.25, negative_slope=0.05.
+1.65 min, RMSE: 0.7132345089746674
+Early stopping at epoch 279
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.25, negative_slope=0.1.
+1.36 min, RMSE: 0.6816013320510063
+Early stopping at epoch 287
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.25, negative_slope=0.2.
+1.41 min, RMSE: 0.7116001837109688
+Early stopping at epoch 282
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.4, negative_slope=0.01.
+1.42 min, RMSE: 0.766497703894826
+Early stopping at epoch 255
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.4, negative_slope=0.05.
+1.29 min, RMSE: 0.8058950140404858
+Early stopping at epoch 253
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.4, negative_slope=0.1.
+1.28 min, RMSE: 0.8160370882840586
+Early stopping at epoch 273
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.4, negative_slope=0.2.
+1.37 min, RMSE: 0.8159166499394556
+Early stopping at epoch 283
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.5, negative_slope=0.01.
+1.43 min, RMSE: 0.7924850310062843
+Early stopping at epoch 272
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.5, negative_slope=0.05.
+1.33 min, RMSE: 0.8612760991995131
+Early stopping at epoch 310
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.5, negative_slope=0.1.
+1.51 min, RMSE: 0.7739947878479855
+Early stopping at epoch 235
+Modelo entrenado con hidden_channels=256, n_layers=2, dropout=0.5, negative_slope=0.2.
+1.15 min, RMSE: 0.8116951291782889
+Early stopping at epoch 285
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.1, negative_slope=0.01.
+1.55 min, RMSE: 0.6767520233016484 
+Early stopping at epoch 323
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.1, negative_slope=0.05.
+1.74 min, RMSE: 0.6798607408378938 
+Early stopping at epoch 355
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.1, negative_slope=0.1.
+1.91 min, RMSE: 0.6897862681955593
+Early stopping at epoch 256
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.1, negative_slope=0.2.
+1.39 min, RMSE: 0.6873904346368523
+Early stopping at epoch 283
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.25, negative_slope=0.01.
+1.53 min, RMSE: 0.7084078521614048
+Early stopping at epoch 205
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.25, negative_slope=0.05.
+1.12 min, RMSE: 0.7706750294764961
+Early stopping at epoch 272
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.25, negative_slope=0.1.
+1.49 min, RMSE: 0.7168176623772169
+Early stopping at epoch 255
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.25, negative_slope=0.2.
+1.41 min, RMSE: 0.727754838851643
+Early stopping at epoch 323
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.4, negative_slope=0.01.
+1.77 min, RMSE: 0.7363221327971049
+Early stopping at epoch 211
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.4, negative_slope=0.05.
+1.17 min, RMSE: 0.789161505643429
+Early stopping at epoch 276
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.4, negative_slope=0.1.
+1.52 min, RMSE: 0.7439359429045996
+Early stopping at epoch 276
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.4, negative_slope=0.2.
+1.51 min, RMSE: 0.7976186987568089
+Early stopping at epoch 309
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.5, negative_slope=0.01.
+1.68 min, RMSE: 0.8188048600016865
+Early stopping at epoch 303
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.5, negative_slope=0.05.
+1.65 min, RMSE: 0.7696566780771843
+Early stopping at epoch 233
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.5, negative_slope=0.1.
+1.29 min, RMSE: 0.7956451002821275
+Early stopping at epoch 250
+Modelo entrenado con hidden_channels=256, n_layers=3, dropout=0.5, negative_slope=0.2.
+1.38 min, RMSE: 0.8117548304129756
+Early stopping at epoch 297
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.1, negative_slope=0.01.
+1.85 min, RMSE: 0.6826507359129039
+Early stopping at epoch 332
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.1, negative_slope=0.05.
+2.06 min, RMSE: 0.6804786271818555
+Early stopping at epoch 316
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.1, negative_slope=0.1.
+1.97 min, RMSE: 0.6811908964870304
+Early stopping at epoch 302
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.1, negative_slope=0.2.
+1.88 min, RMSE: 0.6886665301402854
+Early stopping at epoch 340
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.25, negative_slope=0.01.
+2.12 min, RMSE: 0.7315761104644611
+Early stopping at epoch 260
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.25, negative_slope=0.05.
+1.62 min, RMSE: 0.7321105082382348
+Early stopping at epoch 337
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.25, negative_slope=0.1.
+2.09 min, RMSE: 0.7040220844374304
+Early stopping at epoch 287
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.25, negative_slope=0.2.
+1.78 min, RMSE: 0.7192126351322876
+Early stopping at epoch 326
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.4, negative_slope=0.01.
+1.99 min, RMSE: 0.8144617738687429
+Early stopping at epoch 244
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.4, negative_slope=0.05.
+1.5 min, RMSE: 0.8069749593161942
+Early stopping at epoch 274
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.4, negative_slope=0.1.
+1.68 min, RMSE: 0.8100012900746343
+Early stopping at epoch 206
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.4, negative_slope=0.2.
+1.28 min, RMSE: 0.8573046182531067
+Early stopping at epoch 213
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.5, negative_slope=0.01.
+1.32 min, RMSE: 0.9307981340973389
+Early stopping at epoch 190
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.5, negative_slope=0.05.
+1.18 min, RMSE: 0.8824474060872995
+Early stopping at epoch 253
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.5, negative_slope=0.1.
+1.55 min, RMSE: 0.9054674066705096
+Early stopping at epoch 211
+Modelo entrenado con hidden_channels=256, n_layers=4, dropout=0.5, negative_slope=0.2.
+1.3 min, RMSE: 0.8880981643268947
+Early stopping at epoch 305
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.1, negative_slope=0.01.
+2.1 min, RMSE: 0.6720312927081264 
+Early stopping at epoch 198
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.1, negative_slope=0.05.
+1.39 min, RMSE: 0.6971867234642531
+Early stopping at epoch 340
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.1, negative_slope=0.1.
+2.37 min, RMSE: 0.6805444102917174
+Early stopping at epoch 229
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.1, negative_slope=0.2.
+1.62 min, RMSE: 0.6933383038102439
+Early stopping at epoch 284
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.25, negative_slope=0.01.
+1.97 min, RMSE: 0.7218511800905537
+Early stopping at epoch 306
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.25, negative_slope=0.05.
+2.12 min, RMSE: 0.7323507134199416
+Early stopping at epoch 291
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.25, negative_slope=0.1.
+2.04 min, RMSE: 0.7472834337536822
+Early stopping at epoch 242
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.25, negative_slope=0.2.
+1.7 min, RMSE: 0.7133223747550087
+Early stopping at epoch 232
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.4, negative_slope=0.01.
+1.61 min, RMSE: 0.8039879811016342
+Early stopping at epoch 262
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.4, negative_slope=0.05.
+1.81 min, RMSE: 0.8389855469409594
+Early stopping at epoch 199
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.4, negative_slope=0.1.
+1.39 min, RMSE: 0.8227091357737173
+Early stopping at epoch 183
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.4, negative_slope=0.2.
+1.27 min, RMSE: 0.8777224148488911
+Early stopping at epoch 237
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.5, negative_slope=0.01.
+1.66 min, RMSE: 0.9558941095831335
+Early stopping at epoch 224
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.5, negative_slope=0.05.
+1.56 min, RMSE: 1.019460512081611
+Early stopping at epoch 184
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.5, negative_slope=0.1.
+1.3 min, RMSE: 0.9874197465910899
+Early stopping at epoch 212
+Modelo entrenado con hidden_channels=256, n_layers=5, dropout=0.5, negative_slope=0.2.
+1.47 min, RMSE: 1.0300604367440775
+Early stopping at epoch 203
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.1, negative_slope=0.01.
+1.58 min, RMSE: 0.6904817093960921
+Early stopping at epoch 290
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.1, negative_slope=0.05.
+2.23 min, RMSE: 0.6746089291463367 
+Early stopping at epoch 330
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.1, negative_slope=0.1.
+2.52 min, RMSE: 0.6880074697077978
+Early stopping at epoch 300
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.1, negative_slope=0.2.
+2.31 min, RMSE: 0.6888171091915963
+Early stopping at epoch 348
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.25, negative_slope=0.01.
+2.65 min, RMSE: 0.7340574177375891
+Early stopping at epoch 270
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.25, negative_slope=0.05.
+2.08 min, RMSE: 0.7382199685453703
+Early stopping at epoch 282
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.25, negative_slope=0.1.
+2.16 min, RMSE: 0.7439448135744072
+Early stopping at epoch 286
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.25, negative_slope=0.2.
+2.22 min, RMSE: 0.7451277010702436
+Early stopping at epoch 295
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.4, negative_slope=0.01.
+2.25 min, RMSE: 0.8163892083721819
+Early stopping at epoch 134
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.4, negative_slope=0.05.
+1.08 min, RMSE: 0.9028905657240044
+Early stopping at epoch 309
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.4, negative_slope=0.1.
+2.38 min, RMSE: 0.8375496612415314
+Early stopping at epoch 183
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.4, negative_slope=0.2.
+1.43 min, RMSE: 0.9377597513032372
+Early stopping at epoch 203
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.5, negative_slope=0.01.
+1.58 min, RMSE: 0.9783110712972677
+Early stopping at epoch 201
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.5, negative_slope=0.05.
+1.55 min, RMSE: 1.0286282297893596
+Early stopping at epoch 218
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.5, negative_slope=0.1.
+1.68 min, RMSE: 0.9151671814764338
+Early stopping at epoch 199
+Modelo entrenado con hidden_channels=256, n_layers=6, dropout=0.5, negative_slope=0.2.
+1.54 min, RMSE: 1.0184978949945154
+Early stopping at epoch 294
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.1, negative_slope=0.01.
+2.05 min, RMSE: 0.6771114684348278 
+Early stopping at epoch 297
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.1, negative_slope=0.05.
+2.08 min, RMSE: 0.6838161951752431
+Early stopping at epoch 452
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.1, negative_slope=0.1.
+3.13 min, RMSE: 0.6828856200154447
+Early stopping at epoch 318
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.1, negative_slope=0.2.
+2.21 min, RMSE: 0.681445873562667
+Early stopping at epoch 271
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.25, negative_slope=0.01.
+1.89 min, RMSE: 0.7185490428359893
+Early stopping at epoch 224
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.25, negative_slope=0.05.
+1.57 min, RMSE: 0.7393384860810327
+Early stopping at epoch 268
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.25, negative_slope=0.1.
+1.88 min, RMSE: 0.7351877670881221
+Early stopping at epoch 285
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.25, negative_slope=0.2.
+1.99 min, RMSE: 0.7472612197644675
+Early stopping at epoch 237
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.4, negative_slope=0.01.
+1.66 min, RMSE: 0.9115659058929652
+Early stopping at epoch 291
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.4, negative_slope=0.05.
+2.03 min, RMSE: 0.833895724517888
+Early stopping at epoch 220
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.4, negative_slope=0.1.
+1.54 min, RMSE: 0.8790506189724931
+Early stopping at epoch 193
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.4, negative_slope=0.2.
+1.36 min, RMSE: 0.8350884607136155
+Early stopping at epoch 212
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.5, negative_slope=0.01.
+1.49 min, RMSE: 0.8914819789068883
+Early stopping at epoch 240
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.5, negative_slope=0.05.
+1.68 min, RMSE: 0.8578810949406943
+Early stopping at epoch 199
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.5, negative_slope=0.1.
+1.4 min, RMSE: 0.9078889977389117
+Early stopping at epoch 222
+Modelo entrenado con hidden_channels=512, n_layers=2, dropout=0.5, negative_slope=0.2.
+1.55 min, RMSE: 0.839721546254256
+Early stopping at epoch 316
+Modelo entrenado con hidden_channels=512, n_layers=3, dropout=0.1, negative_slope=0.01.
+2.79 min, RMSE: 0.6794214600788681
+Early stopping at epoch 312
+Modelo entrenado con hidden_channels=512, n_layers=3, dropout=0.1, negative_slope=0.05.
+2.75 min, RMSE: 0.6669521105581254
+Early stopping at epoch 267
+Modelo entrenado con hidden_channels=512, n_layers=3, dropout=0.1, negative_slope=0.1.
+2.36 min, RMSE: 0.6748657292394225
+Early stopping at epoch 261
+Modelo entrenado con hidden_channels=512, n_layers=3, dropout=0.1, negative_slope=0.2.
+2.31 min, RMSE: 0.6829142004123548
+Early stopping at epoch 278
+Modelo entrenado con hidden_channels=512, n_layers=3, dropout=0.25, negative_slope=0.01.
+2.46 min, RMSE: 0.7486430702185448
+Early stopping at epoch 262
+Modelo entrenado con hidden_channels=512, n_layers=3, dropout=0.25, negative_slope=0.05.
+2.31 min, RMSE: 0.7649638156290421
+Early stopping at epoch 255
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.1, negative_slope=0.01.
+2.95 min, RMSE: 0.6993938923607977
+Early stopping at epoch 252
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.1, negative_slope=0.05.
+2.91 min, RMSE: 0.7023220250756412
+Early stopping at epoch 231
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.1, negative_slope=0.1.
+2.68 min, RMSE: 0.7086481840119041
+Early stopping at epoch 223
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.1, negative_slope=0.2.
+2.59 min, RMSE: 0.7026285964870873
+Early stopping at epoch 229
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.25, negative_slope=0.01.
+2.66 min, RMSE: 0.7434832385232601
+Early stopping at epoch 144
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.25, negative_slope=0.05.
+1.69 min, RMSE: 0.7900792947546843
+Early stopping at epoch 216
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.25, negative_slope=0.1.
+2.51 min, RMSE: 0.7655391456098458
+Early stopping at epoch 222
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.25, negative_slope=0.2.
+2.58 min, RMSE: 0.7512818010375935
+Early stopping at epoch 158
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.4, negative_slope=0.01.
+1.84 min, RMSE: 0.8545805116886935
+Early stopping at epoch 207
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.4, negative_slope=0.05.
+2.4 min, RMSE: 0.8653835447626641
+Early stopping at epoch 137
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.4, negative_slope=0.1.
+1.61 min, RMSE: 0.939673242640667
+Early stopping at epoch 171
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.4, negative_slope=0.2.
+1.99 min, RMSE: 0.9634825480901915
+Early stopping at epoch 211
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.5, negative_slope=0.01.
+2.45 min, RMSE: 0.824592923194125
+Early stopping at epoch 187
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.5, negative_slope=0.05.
+2.18 min, RMSE: 0.9299168188699348
+Early stopping at epoch 271
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.5, negative_slope=0.1.
+3.13 min, RMSE: 0.8250454378931846
+Early stopping at epoch 219
+Modelo entrenado con hidden_channels=512, n_layers=4, dropout=0.5, negative_slope=0.2.
+2.54 min, RMSE: 0.8335586034974637
+Early stopping at epoch 206
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.1, negative_slope=0.01.
+2.86 min, RMSE: 0.7120403813849576
+Early stopping at epoch 240
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.1, negative_slope=0.05.
+3.31 min, RMSE: 0.6993465201559899
+Early stopping at epoch 251
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.1, negative_slope=0.1.
+3.46 min, RMSE: 0.692921112946949
+Early stopping at epoch 247
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.1, negative_slope=0.2.
+3.41 min, RMSE: 0.7007430199390026
+Early stopping at epoch 233
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.25, negative_slope=0.01.
+3.22 min, RMSE: 0.792557720698729
+Early stopping at epoch 231
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.25, negative_slope=0.05.
+3.19 min, RMSE: 0.8316587885817943
+Early stopping at epoch 240
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.25, negative_slope=0.1.
+3.32 min, RMSE: 0.8004556148261305
+Early stopping at epoch 184
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.25, negative_slope=0.2.
+2.55 min, RMSE: 0.7496417469417379
+Early stopping at epoch 205
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.4, negative_slope=0.01.
+2.83 min, RMSE: 0.8691279118766863
+Early stopping at epoch 148
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.4, negative_slope=0.05.
+2.06 min, RMSE: 0.9419949946811411
+Early stopping at epoch 226
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.4, negative_slope=0.1.
+3.11 min, RMSE: 0.8434218120441483
+Early stopping at epoch 245
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.4, negative_slope=0.2.
+3.37 min, RMSE: 0.8287522412538973
+Early stopping at epoch 166
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.5, negative_slope=0.01.
+2.31 min, RMSE: 0.9621687853266564
+Early stopping at epoch 237
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.5, negative_slope=0.05.
+3.26 min, RMSE: 0.8825524673865356
+Early stopping at epoch 267
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.5, negative_slope=0.1.
+3.66 min, RMSE: 0.8882864668103041
+Early stopping at epoch 259
+Modelo entrenado con hidden_channels=512, n_layers=5, dropout=0.5, negative_slope=0.2.
+3.55 min, RMSE: 0.9172844649877397
+Early stopping at epoch 218
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.1, negative_slope=0.01.
+3.56 min, RMSE: 0.7115962976267254
+Early stopping at epoch 293
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.1, negative_slope=0.05.
+4.75 min, RMSE: 0.7029026420208344
+Early stopping at epoch 294
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.1, negative_slope=0.1.
+4.79 min, RMSE: 0.690582531576156
+Early stopping at epoch 263
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.1, negative_slope=0.2.
+4.28 min, RMSE: 0.7077301574872931
+Early stopping at epoch 224
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.25, negative_slope=0.01.
+3.66 min, RMSE: 0.7716008760907646
+Early stopping at epoch 210
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.25, negative_slope=0.05.
+3.43 min, RMSE: 0.7480102219386352
+Early stopping at epoch 198
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.25, negative_slope=0.1.
+3.23 min, RMSE: 0.8457754655402742
+Early stopping at epoch 219
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.25, negative_slope=0.2.
+3.57 min, RMSE: 0.7442253032585058
+Early stopping at epoch 163
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.4, negative_slope=0.01.
+2.68 min, RMSE: 0.8717149033996582
+Early stopping at epoch 137
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.4, negative_slope=0.05.
+2.26 min, RMSE: 0.9666734663566904
+Early stopping at epoch 211
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.4, negative_slope=0.1.
+3.44 min, RMSE: 0.8379189766148295
+Early stopping at epoch 166
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.4, negative_slope=0.2.
+2.72 min, RMSE: 0.8437068224692121
+Early stopping at epoch 231
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.5, negative_slope=0.01.
+3.77 min, RMSE: 0.9613123553054207
+Early stopping at epoch 244
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.5, negative_slope=0.05.
+3.97 min, RMSE: 0.9820674595996897
+Early stopping at epoch 229
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.5, negative_slope=0.1.
+3.73 min, RMSE: 0.8985805719454979
+Early stopping at epoch 219
+Modelo entrenado con hidden_channels=512, n_layers=6, dropout=0.5, negative_slope=0.2.
+3.57 min, RMSE: 1.061603811338241
